@@ -1,5 +1,5 @@
 console.log(`Trabalhando com condicionais \n`);
-
+console.log(`teste`);
 const listaDeDestinos = new Array(
     `Salvador`, 
     `São Paulo`, 

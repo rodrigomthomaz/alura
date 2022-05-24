@@ -1,0 +1,1 @@
+docker run -dit --name apache-server -p 8082:80 -v /home/pi/nextcloudpi/alura/apache:/usr/local/apache2/htdocs/ httpd:2.4
